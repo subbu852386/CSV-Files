@@ -1,2 +1,4 @@
 order_id,product_id,customer_id,product,state_name,amount,currency,timestamp,transaction_date
 3801,23,421,"Salmon - Atlantic, Fresh, Whole",California,2756,USD,2020-09-02T03:54:12Z,9/2/2020
+4166,99,117,"Beans - Black Bean, Dry",New York,2968,USD,2020-09-02T10:31:07Z,9/2/2020
+9107,30,894,Onions - White,New York,1906,USD,2020-09-02T09:57:38Z,9/2/2020
