@@ -1,3 +1,6 @@
 order_id,product_id,customer_id,product,state_name,amount,currency,timestamp,transaction_date
 2480,99,117,"Beans - Black Bean, Dry",California,1272,USD,2020-09-02T23:26:45Z,9/2/2020
 6221,30,894,Onions - White,New Jersey,974,USD,2020-09-02T23:09:19Z,9/2/2020
+6158,50,363,Mushrooms - Honey,Texas,0,USD,2020-09-02T04:46:56Z,9/2/2020
+7539,68,383,"Chilli Paste, Sambal Oelek",New Jersey,0,USD,2020-09-02T11:17:26Z,9/2/2020
+9999,34,739,Mushroom - Chanterelle Frozen,New Jersey,0,USD,2020-09-02T11:17:26Z,9/2/2020
