@@ -2,3 +2,6 @@ order_id,product_id,customer_id,product,state_name,amount,currency,timestamp,tra
 3801,23,421,"Salmon - Atlantic, Fresh, Whole",California,2756,USD,2020-09-02T03:54:12Z,9/2/2020
 4166,99,117,"Beans - Black Bean, Dry",New York,2968,USD,2020-09-02T10:31:07Z,9/2/2020
 9107,30,894,Onions - White,New York,1906,USD,2020-09-02T09:57:38Z,9/2/2020
+9409,42,555,Jagermeister,New York,2591,USD,2020-09-02T15:32:50Z,9/2/2020
+5063,50,363,Mushrooms - Honey,New York,3918,USD,2020-09-02T00:43:38Z,9/2/2020
+7253,68,383,"Chilli Paste, Sambal Oelek",New Jersey,1502,USD,2020-09-02T23:09:39Z,9/2/2020
